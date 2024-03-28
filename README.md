@@ -1,6 +1,6 @@
 👋 Hi I am Satyasri. I'm a coder 
 - 🔭 I’m currently working on Machine learning
-- 🌱 I’m currently learning Backend development
+- 🌱 I’m currently learning Backend development and mern stack.
 - 👯 I’m looking to collaborate on machine learning projects that push boundaries.
 - 🤔 I’m looking for internships and projects on machine learning
 - Enthusiastic to solve real world problems 
