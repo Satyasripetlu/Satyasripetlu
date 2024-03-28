@@ -1,7 +1,4 @@
-### Hi there 👋
-
-**Satyasripetlu/Satyasripetlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+👋 Hi I am Satyasri. I'm a coder 
 - 🔭 I’m currently working on Machine learning
 - 🌱 I’m currently learning Backend development
 - 👯 I’m looking to collaborate on machine learning projects that push boundaries.
